@@ -30,9 +30,7 @@ OS Version:                    10.0.26200 N/A Build 26200
 OS Manufacturer:               Microsoft Corporation
 OS Configuration:              Standalone Workstation
 OS Build Type:                 Multiprocessor Free
-Registered Owner:              khan170_kk@yahoo.com
 Registered Organization:       N/A
-Product ID:                    00342-21934-22393-AAOEM
 Original Install Date:         17/12/2024, 11:02:36 AM
 System Boot Time:              18/06/2026, 12:35:58 PM
 System Manufacturer:           ASUSTeK COMPUTER INC.
@@ -43,7 +41,6 @@ Processor(s):                  1 Processor(s) Installed.
 BIOS Version:                  American Megatrends International, LLC. X515EA.316, 14/03/2024
 Windows Directory:             C:\WINDOWS
 System Directory:              C:\WINDOWS\system32
-Boot Device:                   \Device\HarddiskVolume1
 System Locale:                 en-us;English (United States)
 Input Locale:                  en-us;English (United States)
 Time Zone:                     (UTC+03:00) Moscow, St. Petersburg
@@ -55,18 +52,8 @@ Virtual Memory: In Use:        10,535 MB
 Page File Location(s):         C:\pagefile.sys
 Domain:                        WORKGROUP
 Logon Server:                  \\ZAHID
-Hotfix(s):                     5 Hotfix(s) Installed.
-                               [01]: KB5087051
-                               [02]: KB5054156
-                               [03]: KB5094126
-                               [04]: KB5092762
-                               [05]: KB5094135
 Network Card(s):               3 NIC(s) Installed.
                                [01]: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
                                      Connection Name: Wi-Fi
                                      DHCP Enabled:    Yes
-                                     DHCP Server:     10.182.59.39
-                                     IP address(es)
-                                     [01]: 10.182.59.76
-                                     [02]: fe80::dd46:602c:2b70:1f22
                                [02]: Bluetooth Device (Personal Area Network)
